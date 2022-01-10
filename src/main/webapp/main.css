@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+.mainbody{
+	background-image: url("backgournd-02.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
